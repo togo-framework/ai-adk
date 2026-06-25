@@ -22,7 +22,7 @@ Environment variables read by this plugin (extracted from the source — see the
 
 | Env var |
 |---|
-| `ADK_BASE_URL"` |
+| `ADK_BASE_URL` |
 
 ## Usage
 
