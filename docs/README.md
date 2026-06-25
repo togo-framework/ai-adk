@@ -1,6 +1,6 @@
 # ai-adk — documentation
 
-  <img src=".github/assets/togo-mark.svg" alt="togo" height="64" />
+Google Agent Development Kit (ADK) integration for togo
 
 ## Overview
 
@@ -18,12 +18,11 @@ A capability plugin — it self-registers on boot; no driver selector needed.
 
 ## Configuration
 
-Environment variables read by this plugin (extracted from the source):
+Environment variables read by this plugin (extracted from the source — see the gateway/provider docs for each value):
 
-| Env var | Notes |
-|---|---|
-| `ADK_BASE_URL` | _see provider docs_ |
-| `G` | _see provider docs_ |
+| Env var |
+|---|
+| `ADK_BASE_URL"` |
 
 ## Usage
 
@@ -33,4 +32,4 @@ See the package API in the source.
 
 - Marketplace: https://to-go.dev/marketplace
 - Source: https://github.com/togo-framework/ai-adk
-- README: ../README.md
+- Full README: ../README.md
